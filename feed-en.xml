@@ -5,10 +5,10 @@
     <title>Simple Blog Theme</title>
     <description>Write an awesome description for your new site here. You can edit this line in index.md. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/index.html</link>
-    <atom:link href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-en.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Feb 2018 23:04:08 +0900</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2018 23:04:08 +0900</lastBuildDate>
+    <link>https://shotaiuchi.github.io/compweb/index.html</link>
+    <atom:link href="https://shotaiuchi.github.io/compweb/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Feb 2018 23:09:00 +0900</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 23:09:00 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
     
@@ -17,8 +17,8 @@
         <description>&lt;p&gt;This is an example of a project page. As you can see there are buttons in the header to go to the repository, or directly download the source code.&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Oct 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html</guid>
+        <link>https://shotaiuchi.github.io/compweb/example-project-page.html</link>
+        <guid isPermaLink="true">https://shotaiuchi.github.io/compweb/example-project-page.html</guid>
         
         <category>example</category>
         
@@ -38,8 +38,8 @@
         <description>&lt;p&gt;This is an example of a repository page. Sometimes you write an article which refers to a repository. As you can see there are buttons in the header to go to the repository, or directly download the source code.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html</guid>
+        <link>https://shotaiuchi.github.io/compweb/example-repository-page.html</link>
+        <guid isPermaLink="true">https://shotaiuchi.github.io/compweb/example-repository-page.html</guid>
         
         <category>example</category>
         
@@ -59,8 +59,8 @@
         <description>&lt;p&gt;This post is in English.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Aug 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html</guid>
+        <link>https://shotaiuchi.github.io/compweb/post-example-in-english.html</link>
+        <guid isPermaLink="true">https://shotaiuchi.github.io/compweb/post-example-in-english.html</guid>
         
         <category>example</category>
         
